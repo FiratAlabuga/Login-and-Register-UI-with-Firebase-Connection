@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "936612959294",
+    "firebase_url": "https://self-tracking-system-sts.firebaseio.com",
+    "project_id": "self-tracking-system-sts",
+    "storage_bucket": "self-tracking-system-sts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936612959294:android:979bcb2a9e257fc8a86d6f",
+        "android_client_info": {
+          "package_name": "com.example.self_tracking_sys_sts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936612959294-rrnoqbpbsfquk5od5gklocmdjkut4s05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQUxvN5cQv98QmhTU839eqEy8s2-8CTQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936612959294-rrnoqbpbsfquk5od5gklocmdjkut4s05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+  
+}
